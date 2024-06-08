@@ -1,9 +1,9 @@
 # Site settings
-title: PHOTORAMA
+title: PORTFOLIO
 email: ""
 description: "Photo Journal"
 url: "https://michellew0ng.github.io"
-baseurl: "/photorama"
+baseurl: ""
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -15,7 +15,7 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   Michelle
   avatar: avatar.png
   favicon: favicon.ico
   info: photography website template
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://michellew0ng.github.io/photorama/gallery/"  
-  - JOURNAL: "https://michellew0ng.github.io/photorama/journal/"
-  - ABOUT: "https://michellew0ng.github.io/photorama/about/"
+  - GALLERY: "https://michellew0ng.github.io/gallery/"  
+  - JOURNAL: "https://michellew0ng.github.io/journal/"
+  - ABOUT: "https://michellew0ng.github.io/about/"
 
 # All translation keys
 translations:
