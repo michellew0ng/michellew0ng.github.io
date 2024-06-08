@@ -66,9 +66,9 @@ The **BASEURL** should say `/repositoryname`
 
   nav:
 
-  - GALLERY: `"https://yourusername.github.io/repositoryname/gallery/"`
-  - JOURNAL: `"https://yourusername.github.io/repositoryname/journal/"`
-  - ABOUT: `"https://yourusername.github.io/repositoryname/about/`"
+  - GALLERY: `"https://michellew0ng.github.io/main/gallery/"`
+  - JOURNAL: `"https://michellew0ng.github.io/main/journal/"`
+  - ABOUT: `"https://michellw0ng.github.io/main/about/`"
 
 If there are problems with loading assets like CSS files and images, make sure that both **URL** and **BASEURL** are set correctly!!! 
 
