@@ -3,7 +3,7 @@ title: PORTFOLIO
 email: ""
 description: "Photo Journal"
 url: "https://michellew0ng.github.io"
-baseurl: ""
+baseurl: "/main"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://michellew0ng.github.io/gallery/"  
-  - JOURNAL: "https://michellew0ng.github.io/journal/"
-  - ABOUT: "https://michellew0ng.github.io/about/"
+  - GALLERY: "https://michellew0ng.github.io//main/gallery/"  
+  - JOURNAL: "https://michellew0ng.github.io/main/journal/"
+  - ABOUT: "https://michellew0ng.github.io/main/about/"
 
 # All translation keys
 translations:
